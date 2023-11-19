@@ -4,3 +4,7 @@
 //   let student = students.shift();
 //   console.log(`Hello!, ${student}!`);
 // }
+
+// function greetStudent(student) {
+//   console.log(`Hello, ${student}!`);
+// }
